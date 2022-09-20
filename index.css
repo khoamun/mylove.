@@ -1,0 +1,18 @@
+h1{
+    background-color: aliceblue;
+    font-size: 40px;
+    color: red;
+border: 2px solid red;}
+        h2{color:rgb(32, 0, 128)}
+        .ping {color:blue}
+        html {
+            font-weight: 800px;
+            font-size: 20pt;
+            text-align: center;
+             background: url('https://th.bing.com/th/id/R.9ea8beb2317f2bf724770b6d45e5c623?rik=29RmQiSqGYrZwA&pid=ImgRaw&r=0');                     
+            font-style: bold;
+        }
+        div {
+            border: 5px solid red;
+        }
+        h3{color: blue;}
